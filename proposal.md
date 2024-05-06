@@ -22,7 +22,7 @@ The program will run code to select random coordinates, attacking the player
 
 ## Outcomes
 Ideal Outcome:
--When players run the program, a 5x5 grid will appear in their terminal marked A-E and 1-5 asking howmany ships they would want (1-25), then they play against the program as the pattern updates every turn with info until the player wins/loses.
+-When players run the program, a 5x5 grid will appear in their terminal marked A-E and 1-5 asking how many ships they would want (1-25), then they play against the program as the pattern updates every turn with info until the player wins/loses.
 
 Minimal Viable Outcome:
 -When player runs program, they're given a set number of ships. They are then asked to choose between 1-5 for row and 1-5 for column, randomly choosing coordinates against the program until they win or lose.
